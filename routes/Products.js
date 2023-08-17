@@ -19,6 +19,4 @@ router.post('/', createProduct)
       //      res.send('ok')
       // })
 
-      
-
 exports.router = router;
